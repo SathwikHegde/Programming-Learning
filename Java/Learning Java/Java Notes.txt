@@ -1,0 +1,7 @@
+Data Types:
+
+1) Primitve Data Types
+   boolean= True or False, int= integere / whole number, , double= decimal number, char= character
+
+2) Reference Types
+the process by which an element exist in two or more crystalline form is known as
