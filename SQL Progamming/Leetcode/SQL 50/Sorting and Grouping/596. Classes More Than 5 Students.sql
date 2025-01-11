@@ -62,5 +62,9 @@ insert into Courses (student, class) values ('I', 'Math')
 
 # Write your MySQL query statement below
 
-SELECT CLASS FROM Courses
-HAVING COUNT(student) >= 5
+SELECT class 
+FROM Courses
+GROUP BY class
+HAVING COUNT(student) >= 5;
+
+
