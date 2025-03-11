@@ -58,7 +58,7 @@ Output:
 | Max       |
 +-----------+
 
-
+SQL Schema:
 Create table If Not Exists Customers (id int, name varchar(255))
 Create table If Not Exists Orders (id int, customerId int)
 Truncate table Customers
