@@ -75,6 +75,7 @@ insert into Bonus (empId, bonus) values ('2', '500')
 insert into Bonus (empId, bonus) values ('4', '2000')
 
 
+
 # Write your MySQL query statement below
 
 SELECT e.name, b.bonus
