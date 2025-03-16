@@ -52,7 +52,6 @@ insert into Weather (id, recordDate, temperature) values ('4', '2015-01-04', '30
 
 
 # Write your MySQL query statement below
-
 SELECT W1.id
 FROM Weather W1
 JOIN Weather W2
